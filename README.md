@@ -1,16 +1,15 @@
-## Hi there 👋
+### Алексей Пономарёв — ведущий frontend-разработчик
 
-<!--
-**funnydino/funnydino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vue 3 · TypeScript · Pinia · Vite · Tauri (Android, iOS)
 
-Here are some ideas to get you started:
+С 2021 года работаю в продуктовой B2B-компании (полевые продажи, мерчандайзинг, распознавание товаров на полках):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- кросс-платформенное мобильное приложение на Tauri — основной разработчик, от выбора стека до публикации
+  в App Store и RuStore;
+- веб-приложение на Vue 3 + TypeScript — запускал frontend и закладывал архитектуру;
+- расширения мобильного приложения для полевых сотрудников.
+
+Коммерческий код — в закрытых корпоративных репозиториях, поэтому здесь в основном ранние учебные проекты
+2020–2021 годов.
+
+[Резюме на hh.ru](./resume.pdf) · [Хабр Карьера](https://career.habr.com/funnydino)
