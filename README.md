@@ -12,4 +12,4 @@ Vue 3 · TypeScript · Pinia · Vite · Tauri (Android, iOS)
 Коммерческий код — в закрытых корпоративных репозиториях, поэтому здесь в основном ранние учебные проекты
 2020–2021 годов.
 
-[Резюме на hh.ru](https://kaliningrad.hh.ru/resume/fb4591a3ff03f5bf620039ed1f423553306f6f) · [Хабр Карьера](https://career.habr.com/funnydino)
+Резюме и контакты — на [Хабр Карьере](https://career.habr.com/funnydino).
